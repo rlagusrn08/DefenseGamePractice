@@ -5021,10 +5021,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00e7ffbdfeca3cb4fb892ac733866f1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  respawnSpot1: {fileID: 1600462474}
-  respawnSpot2: {fileID: 640479715}
-  respawnSpot3: {fileID: 1827044521}
-  respawnSpot4: {fileID: 2117555200}
+  respawnSpotList:
+  - {fileID: 1600462474}
+  - {fileID: 640479715}
+  - {fileID: 1827044521}
+  - {fileID: 2117555200}
   monster1Prefab: {fileID: 2633563780914543449, guid: 83949551f54f8164a8beb9acc661d0d7,
     type: 3}
   Moster2Prefab: {fileID: 6332932087986863049, guid: 2ef402755b9cccc4bb3959e2f88b45f0,
